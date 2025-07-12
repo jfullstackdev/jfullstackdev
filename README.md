@@ -41,6 +41,9 @@ worth it. It means a lot to me. Thanks.
 
 ## New
 
+<a href="https://github.com/jfullstackdev/codespaces-template-laravel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=codespaces-template-laravel&theme=tokyonight&description_lines_count=2" />
+</a>
 <a href="https://github.com/jfullstackdev/page-view-counter">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=page-view-counter&theme=tokyonight&description_lines_count=2" />
 </a>
@@ -48,7 +51,6 @@ worth it. It means a lot to me. Thanks.
 <a href="https://github.com/jfullstackdev/codespaces-template-mern">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=codespaces-template-mern&theme=tokyonight&description_lines_count=2" />
 </a>
-
 <a href="https://github.com/jfullstackdev/mern-fullstack">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=mern-fullstack&theme=tokyonight&description_lines_count=2" />
 </a>
