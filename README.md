@@ -41,13 +41,19 @@ worth it. It means a lot to me. Thanks.
 
 ## New
 
+<a href="https://github.com/jfullstackdev/ai-agents-far-beyond">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=ai-agents-far-beyond&theme=tokyonight&description_lines_count=2" />
+</a>
+
 <a href="https://github.com/jfullstackdev/codespaces-template-laravel">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=codespaces-template-laravel&theme=tokyonight&description_lines_count=2" />
 </a>
+
+***
+
 <a href="https://github.com/jfullstackdev/page-view-counter">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=page-view-counter&theme=tokyonight&description_lines_count=2" />
 </a>
-
 <a href="https://github.com/jfullstackdev/codespaces-template-mern">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=codespaces-template-mern&theme=tokyonight&description_lines_count=2" />
 </a>
