@@ -29,7 +29,7 @@ worth it. It means a lot to me. Thanks.
   <img src="https://komarev.com/ghpvc/?username=xdvrx1&label=PROFILE+VIEWS" alt="xdvrx1" /> 
 </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jfullstackdev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues" /> </p>
+<p align="left"> <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=jfullstackdev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues" /> </p>
 
 # Featured Content
 
@@ -41,11 +41,11 @@ worth it. It means a lot to me. Thanks.
 ## New
 
 <a href="https://github.com/jfullstackdev/ai-agents-far-beyond">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=ai-agents-far-beyond&theme=tokyonight&description_lines_count=2" />
+  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=ai-agents-far-beyond&theme=tokyonight&description_lines_count=2" />
 </a>
 
 <a href="https://github.com/jfullstackdev/codespaces-template-laravel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=codespaces-template-laravel&theme=tokyonight&description_lines_count=2" />
+  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=codespaces-template-laravel&theme=tokyonight&description_lines_count=2" />
 </a>
 
 ***
