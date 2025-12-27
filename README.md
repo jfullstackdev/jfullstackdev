@@ -40,6 +40,9 @@ worth it. It means a lot to me. Thanks.
 
 ## New
 
+<a href="https://github.com/jfullstackdev/about-crypto">
+  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=about-crypto&theme=tokyonight&description_lines_count=2" />
+</a>
 <a href="https://github.com/jfullstackdev/ai-agents-far-beyond">
   <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=ai-agents-far-beyond&theme=tokyonight&description_lines_count=2" />
 </a>
