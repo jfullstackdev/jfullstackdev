@@ -6,6 +6,7 @@
 
   <defs>
 
+    <!-- Window Gradient -->
     <linearGradient id="window"
                     x1="0%"
                     y1="0%"
@@ -20,64 +21,54 @@
 
     </linearGradient>
 
-    <filter id="glow">
-
-      <feGaussianBlur stdDeviation="1.5"
-                      result="blur"/>
-
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-
-    </filter>
-
   </defs>
 
   <!-- Window -->
 
-  <rect x="10"
-        y="10"
-        width="500"
-        height="160"
-        rx="18"
+  <rect x="5"
+        y="5"
+        width="510"
+        height="170"
+        rx="26"
         fill="url(#window)"/>
 
   <!-- Top Bar -->
 
-  <rect x="10"
-        y="10"
-        width="500"
+  <rect x="5"
+        y="5"
+        width="510"
         height="34"
-        rx="18"
+        rx="26"
         fill="#21262d"/>
 
-  <rect x="10"
-        y="27"
-        width="500"
+  <!-- Radius Fix -->
+
+  <rect x="5"
+        y="22"
+        width="510"
         height="17"
         fill="#21262d"/>
 
   <!-- macOS Buttons -->
 
-  <circle cx="38"
-          cy="27"
+  <circle cx="33"
+          cy="22"
           r="5"
           fill="#ff5f57"/>
 
-  <circle cx="58"
-          cy="27"
+  <circle cx="53"
+          cy="22"
           r="5"
           fill="#febc2e"/>
 
-  <circle cx="78"
-          cy="27"
+  <circle cx="73"
+          cy="22"
           r="5"
           fill="#28c840"/>
 
-  <!-- Text -->
+  <!-- Responsive Text + Cursor -->
 
-  <text x="95"
+  <text x="90"
         y="98"
         font-family="SFMono-Regular, Consolas, monospace"
         font-size="20"
@@ -85,23 +76,17 @@
 
     jfullstackdev-projects/
 
+    <tspan>
+
+      █
+
+      <animate attributeName="opacity"
+               values="1;0;1"
+               dur="1s"
+               repeatCount="indefinite"/>
+
+    </tspan>
+
   </text>
-
-  <!-- Cursor -->
-
-  <rect x="362"
-        y="80"
-        width="7"
-        height="22"
-        rx="2"
-        fill="#58a6ff"
-        filter="url(#glow)">
-
-    <animate attributeName="opacity"
-             values="1;0;1"
-             dur="1s"
-             repeatCount="indefinite"/>
-
-  </rect>
 
 </svg>
