@@ -1,8 +1,8 @@
-<svg width="1200"
-     height="420"
-     viewBox="0 0 1200 420"
+<svg width="520"
+     height="180"
+     viewBox="0 0 520 180"
      xmlns="http://www.w3.org/2000/svg"
-     style="max-width:700px; max-height:240px; width:100%; height:auto;">
+     style="max-width:520px; width:100%; height:auto;">
 
   <defs>
 
@@ -20,53 +20,65 @@
 
     </linearGradient>
 
+    <filter id="glow">
+
+      <feGaussianBlur stdDeviation="1.5"
+                      result="blur"/>
+
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+
+    </filter>
+
   </defs>
 
-  <!-- Small Window -->
+  <!-- Window -->
 
-  <rect x="360"
-        y="120"
-        width="480"
-        height="130"
+  <rect x="10"
+        y="10"
+        width="500"
+        height="160"
         rx="18"
         fill="url(#window)"/>
 
   <!-- Top Bar -->
 
-  <rect x="360"
-        y="120"
-        width="480"
-        height="32"
+  <rect x="10"
+        y="10"
+        width="500"
+        height="34"
         rx="18"
         fill="#21262d"/>
 
-  <rect x="360"
-        y="136"
-        width="480"
-        height="16"
+  <rect x="10"
+        y="27"
+        width="500"
+        height="17"
         fill="#21262d"/>
 
-  <!-- Buttons -->
+  <!-- macOS Buttons -->
 
-  <circle cx="390"
-          cy="136"
+  <circle cx="38"
+          cy="27"
           r="5"
           fill="#ff5f57"/>
 
-  <circle cx="410"
-          cy="136"
+  <circle cx="58"
+          cy="27"
           r="5"
           fill="#febc2e"/>
 
-  <circle cx="430"
-          cy="136"
+  <circle cx="78"
+          cy="27"
           r="5"
           fill="#28c840"/>
 
   <!-- Text -->
 
-  <text x="455"
-        y="198"
+  <text x="95"
+        y="98"
         font-family="SFMono-Regular, Consolas, monospace"
         font-size="20"
         fill="#58a6ff">
@@ -74,5 +86,22 @@
     jfullstackdev-projects/
 
   </text>
+
+  <!-- Cursor -->
+
+  <rect x="375"
+        y="80"
+        width="7"
+        height="22"
+        rx="2"
+        fill="#58a6ff"
+        filter="url(#glow)">
+
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+
+  </rect>
 
 </svg>
