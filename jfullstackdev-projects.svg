@@ -1,30 +1,83 @@
-<svg width="400" height="150" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#0d1117"/>
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Folder + Proper Gear Icon -->
-  <g transform="translate(200,55) scale(1.4)">
-    <!-- Folder Body -->
-    <path d="M -28 -10 H -5 L -2 -15 H 28 V 16 H -28 Z" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
 
-    <!-- Gear Icon (true cogwheel, centered in folder) -->
-    <g transform="translate(0,3) scale(0.8)">
-      <circle cx="0" cy="0" r="5" fill="#0d1117" stroke="#58a6ff" stroke-width="1.5"/>
-      <g stroke="#58a6ff" stroke-width="1.5">
-        <line x1="-8" y1="0" x2="-11" y2="0"/>
-        <line x1="8" y1="0" x2="11" y2="0"/>
-        <line x1="0" y1="-8" x2="0" y2="-11"/>
-        <line x1="0" y1="8" x2="0" y2="11"/>
-        <line x1="-5.5" y1="-5.5" x2="-7.8" y2="-7.8"/>
-        <line x1="5.5" y1="-5.5" x2="7.8" y2="-7.8"/>
-        <line x1="-5.5" y1="5.5" x2="-7.8" y2="7.8"/>
-        <line x1="5.5" y1="5.5" x2="7.8" y2="7.8"/>
-      </g>
+    <linearGradient id="window" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c2128"/>
+      <stop offset="100%" stop-color="#11161c"/>
+    </linearGradient>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="20" stdDeviation="26"
+        flood-color="#000000"
+        flood-opacity="0.45"/>
+    </filter>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+
+  <g filter="url(#shadow)">
+
+    <rect x="160" y="65"
+          width="880" height="250"
+          rx="24"
+          fill="url(#window)"
+          stroke="#30363d"
+          stroke-width="1.5"/>
+
+    <rect x="160" y="65"
+          width="880" height="48"
+          rx="24"
+          fill="#21262d"/>
+
+    <rect x="160" y="89"
+          width="880" height="24"
+          fill="#21262d"/>
+
+    <!-- Buttons -->
+    <circle cx="205" cy="89" r="8" fill="#ff5f57"/>
+    <circle cx="235" cy="89" r="8" fill="#febc2e"/>
+    <circle cx="265" cy="89" r="8" fill="#28c840"/>
+
+    <!-- Text -->
+    <g font-family="SFMono-Regular, Consolas, monospace"
+       font-size="34">
+
+      <text x="245"
+            y="215"
+            fill="#58a6ff">
+        jfullstackdev-projects/
+      </text>
+
+      <!-- Cursor -->
+      <rect x="695"
+            y="186"
+            width="12"
+            height="36"
+            rx="2"
+            fill="#58a6ff"
+            filter="url(#glow)">
+
+        <animate attributeName="opacity"
+                 values="1;0;1"
+                 dur="1s"
+                 repeatCount="indefinite"/>
+      </rect>
+
     </g>
+
   </g>
 
-  <!-- Text -->
-  <text x="50%" y="135" font-family="Segoe UI, sans-serif" font-size="20" text-anchor="middle" fill="#c9d1d9">
-    jfullstackdev-projects
-  </text>
 </svg>
