@@ -35,8 +35,8 @@ worth it. It means a lot to me. Thanks.
 
 ## More Of My Content
 
-[![jfullstackdev icon](jfullstackdev-tutorials.svg)](https://github.com/jdevfullstack-tutorials)
 [![jfullstackdev icon](jfullstackdev-projects.svg)](https://github.com/jdevfullstack-projects)
+[![jfullstackdev icon](jfullstackdev-tutorials.svg)](https://github.com/jdevfullstack-tutorials)
 
 ## New
 
