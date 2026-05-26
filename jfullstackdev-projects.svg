@@ -14,10 +14,10 @@
                     y2="100%">
 
       <stop offset="0%"
-            stop-color="#283548"/>
+            stop-color="#314766"/>
 
       <stop offset="100%"
-            stop-color="#1b2432"/>
+            stop-color="#263a52"/>
 
     </linearGradient>
 
@@ -39,7 +39,7 @@
         width="510"
         height="34"
         rx="26"
-        fill="#334155"/>
+        fill="#415676"/>
 
   <!-- Radius Fix -->
 
@@ -47,7 +47,7 @@
         y="22"
         width="510"
         height="17"
-        fill="#334155"/>
+        fill="#415676"/>
 
   <!-- macOS Buttons -->
 
