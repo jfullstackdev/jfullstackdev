@@ -1,83 +1,107 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+<svg width="520"
+     height="180"
+     viewBox="0 0 520 180"
+     xmlns="http://www.w3.org/2000/svg"
+     style="max-width:520px; width:100%; height:auto;">
 
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#161b22"/>
-    </linearGradient>
 
-    <linearGradient id="window" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1c2128"/>
-      <stop offset="100%" stop-color="#11161c"/>
-    </linearGradient>
+    <linearGradient id="window"
+                    x1="0%"
+                    y1="0%"
+                    x2="100%"
+                    y2="100%">
 
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="20" stdDeviation="26"
-        flood-color="#000000"
-        flood-opacity="0.45"/>
-    </filter>
+      <stop offset="0%"
+            stop-color="#1b2129"/>
+
+      <stop offset="100%"
+            stop-color="#11161c"/>
+
+    </linearGradient>
 
     <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
+
+      <feGaussianBlur stdDeviation="1.5"
+                      result="blur"/>
+
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
+
     </filter>
+
   </defs>
 
-  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <!-- Window -->
 
-  <g filter="url(#shadow)">
+  <rect x="10"
+        y="10"
+        width="500"
+        height="160"
+        rx="18"
+        fill="url(#window)"/>
 
-    <rect x="160" y="65"
-          width="880" height="250"
-          rx="24"
-          fill="url(#window)"
-          stroke="#30363d"
-          stroke-width="1.5"/>
+  <!-- Top Bar -->
 
-    <rect x="160" y="65"
-          width="880" height="48"
-          rx="24"
-          fill="#21262d"/>
+  <rect x="10"
+        y="10"
+        width="500"
+        height="34"
+        rx="18"
+        fill="#21262d"/>
 
-    <rect x="160" y="89"
-          width="880" height="24"
-          fill="#21262d"/>
+  <rect x="10"
+        y="27"
+        width="500"
+        height="17"
+        fill="#21262d"/>
 
-    <!-- Buttons -->
-    <circle cx="205" cy="89" r="8" fill="#ff5f57"/>
-    <circle cx="235" cy="89" r="8" fill="#febc2e"/>
-    <circle cx="265" cy="89" r="8" fill="#28c840"/>
+  <!-- macOS Buttons -->
 
-    <!-- Text -->
-    <g font-family="SFMono-Regular, Consolas, monospace"
-       font-size="34">
+  <circle cx="38"
+          cy="27"
+          r="5"
+          fill="#ff5f57"/>
 
-      <text x="245"
-            y="215"
-            fill="#58a6ff">
-        jfullstackdev-tutorials/
-      </text>
+  <circle cx="58"
+          cy="27"
+          r="5"
+          fill="#febc2e"/>
 
-      <!-- Cursor -->
-      <rect x="710"
-            y="186"
-            width="12"
-            height="36"
-            rx="2"
-            fill="#58a6ff"
-            filter="url(#glow)">
+  <circle cx="78"
+          cy="27"
+          r="5"
+          fill="#28c840"/>
 
-        <animate attributeName="opacity"
-                 values="1;0;1"
-                 dur="1s"
-                 repeatCount="indefinite"/>
-      </rect>
+  <!-- Text -->
 
-    </g>
+  <text x="95"
+        y="98"
+        font-family="SFMono-Regular, Consolas, monospace"
+        font-size="20"
+        fill="#58a6ff">
 
-  </g>
+    jfullstackdev-tutorials/
+
+  </text>
+
+  <!-- Cursor -->
+
+  <rect x="392"
+        y="80"
+        width="7"
+        height="22"
+        rx="2"
+        fill="#58a6ff"
+        filter="url(#glow)">
+
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+
+  </rect>
 
 </svg>
