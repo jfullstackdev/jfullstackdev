@@ -38,6 +38,13 @@ worth it. It means a lot to me. Thanks.
 [![jfullstackdev icon](jfullstackdev-projects.svg)](https://github.com/jdevfullstack-projects)
 [![jfullstackdev icon](jfullstackdev-tutorials.svg)](https://github.com/jdevfullstack-tutorials)
 
+### My Blog
+check out my blog and its mini static generator !
+
+<a href="https://github.com/jfullstackdev/blog">
+  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=blog&theme=tokyonight&description_lines_count=2" />
+</a>
+
 ## New
 
 <a href="https://github.com/jfullstackdev/about-crypto">
