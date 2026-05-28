@@ -2,7 +2,7 @@
 
 *Full Stack Dev & Teacher*
 
-I taught for many years, and now I code for 
+I taught for many years and now I code for 
 work, hobby, and open-source projects.
 
 <p align="center">──── ✦ ────</p>
