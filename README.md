@@ -1,27 +1,19 @@
 # Design. Develop. Innovate.
-***Instructor by Night, Developer by Day, GitHub-er by Weekends & Free Time*** --*that's how it goes*-- 
 
-**Senior Full Stack Developer, GitHub Contributor, Google & VEX Robotics Certified Educator, ICT & Robotics Instructor** 
+*Full Stack Dev & Teacher*
 
-I'm documenting the things I'm interested in,
-lessons that I'm learning and topics that I'm teaching
-plus my dev projects.
-And I want to share these things with you.
-So, please hit the star button or fork any repo 
-that you think is helpful / informative / 
-worth it. It means a lot to me. Thanks.
-
-**visit all my public repos [here](https://github.com/jfullstackdev?tab=repositories&q=&type=source&language=&sort=name)**
+I taught for many years, and now I code for 
+work, hobby, and open-source projects.
 
 <p align="center">──── ✦ ────</p>
 
 -- **my skillset** --
 
-**1. Technical Skills ( C, Python, Java, Spring Boot, PHP, Laravel, Web Dev ( HTML, Markdown , JavaScript, CSS ) , MySQL, API Programming, Git and GitHub, Arduino, VEX Robotics )**          
-**2. online tutorial ( all of my Technical Skills )**         
-**3. writing tech lessons, topics or Course Syllabus**          
-**4. Technical Writing**    
-**5. GitHub Tech Support @ GitHub Community**   
+- C, Python, Java & Spring Boot, PHP, Laravel & Web Dev
+- MySQL, APIs, Git & GitHub
+- Arduino & VEX Robotics
+- Technical Writing & Course Syllabi
+- Tutorials, Lessons & Educational Content
 
 <p align="center">──── ✦ ────</p>
 
