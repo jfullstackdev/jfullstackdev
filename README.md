@@ -3,7 +3,7 @@
 *Full Stack Dev & Teacher*
 
 I taught for many years and now I code for 
-work, hobby, and open-source projects.
+work & personal projects.
 
 <p align="center">──── ✦ ────</p>
 
