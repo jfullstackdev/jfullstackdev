@@ -33,42 +33,17 @@ worth it. It means a lot to me. Thanks.
 
 # Featured Content
 
-## More Of My Content
-
-[![jfullstackdev icon](jfullstackdev-projects.svg)](https://github.com/jdevfullstack-projects)
-[![jfullstackdev icon](jfullstackdev-tutorials.svg)](https://github.com/jdevfullstack-tutorials)
-
-### My Blog
+## My Blog
 check out my blog and its mini static generator !
 
 <a href="https://github.com/jfullstackdev/blog">
   <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=blog&theme=tokyonight&description_lines_count=2" />
 </a>
 
-## New
+## More Of My Content
 
-<a href="https://github.com/jfullstackdev/about-crypto">
-  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=about-crypto&theme=tokyonight&description_lines_count=2" />
-</a>
-<a href="https://github.com/jfullstackdev/ai-agents-far-beyond">
-  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=ai-agents-far-beyond&theme=tokyonight&description_lines_count=2" />
-</a>
-
-<a href="https://github.com/jfullstackdev/codespaces-template-laravel">
-  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=codespaces-template-laravel&theme=tokyonight&description_lines_count=2" />
-</a>
-
-***
-
-<a href="https://github.com/jfullstackdev/page-view-counter">
-  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=page-view-counter&theme=tokyonight&description_lines_count=2" />
-</a>
-<a href="https://github.com/jfullstackdev/codespaces-template-mern">
-  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=codespaces-template-mern&theme=tokyonight&description_lines_count=2" />
-</a>
-<a href="https://github.com/jfullstackdev/mern-fullstack">
-  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=mern-fullstack&theme=tokyonight&description_lines_count=2" />
-</a>
+[![jfullstackdev icon](jfullstackdev-projects.svg)](https://github.com/jdevfullstack-projects)
+[![jfullstackdev icon](jfullstackdev-tutorials.svg)](https://github.com/jdevfullstack-tutorials)
 
 ## Dev & Tech Tutorials / Lessons
 
