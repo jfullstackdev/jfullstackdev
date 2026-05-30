@@ -2,8 +2,8 @@
 
 *Full Stack Dev & Teacher*
 
-I taught for many years and now I code for 
-work and personal projects.
+Teaching for many years while I code 
+for work and personal projects.
 
 <p align="center">──── ✦ ────</p>
 
