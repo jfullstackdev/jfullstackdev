@@ -25,11 +25,6 @@ for work and personal projects.
 
 # Featured Content
 
-## More Of My Content
-
-[![jfullstackdev icon](jfullstackdev-projects.svg)](https://github.com/jdevfullstack-projects)
-[![jfullstackdev icon](jfullstackdev-tutorials.svg)](https://github.com/jdevfullstack-tutorials)
-
 ## My Blog
 check out my blog and its mini static generator !
 
@@ -65,6 +60,14 @@ check out my blog and its mini static generator !
 <a href="https://github.com/jfullstackdev/PureBasic-Scrabble">
   <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=PureBasic-Scrabble&theme=tokyonight&description_lines_count=2" />
 </a>
+
+## More Of My Content
+
+my older projects and tutorials that may still be useful :
+
+[![jfullstackdev icon](jfullstackdev-projects.svg)](https://github.com/jdevfullstack-projects)
+
+[![jfullstackdev icon](jfullstackdev-tutorials.svg)](https://github.com/jdevfullstack-tutorials)
 
 # Copyright Notice
 
