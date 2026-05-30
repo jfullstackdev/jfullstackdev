@@ -42,29 +42,15 @@ check out my blog and its mini static generator !
 <a href="https://github.com/jfullstackdev/programming-core-concepts">
   <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=programming-core-concepts&theme=tokyonight&description_lines_count=2" />
 </a>
-<a href="https://github.com/jfullstackdev/github-pages-tutorial">
-  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=github-pages-tutorial&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jfullstackdev/java-coding-problems">
+  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=java-coding-problems&theme=tokyonight&description_lines_count=2" />
 </a>
-
-<a href="https://github.com/jfullstackdev/github-stats-guide">
-  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=github-stats-guide&theme=tokyonight&description_lines_count=2" />
-</a>
-
-## Arduino & Electronics
 
 <a href="https://github.com/jfullstackdev/electronics-robotics-intro">
   <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=electronics-robotics-intro&theme=tokyonight&description_lines_count=2" />
 </a>
-<a href="https://github.com/jdevfullstack-tutorials/blinking-led-arduino">
-  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jdevfullstack-tutorials&repo=blinking-led-arduino&theme=tokyonight&description_lines_count=2" />
-</a>
-
-<a href="https://github.com/jdevfullstack-tutorials/single-display-arduino-project">
-  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jdevfullstack-tutorials&repo=single-display-arduino-project&theme=tokyonight&description_lines_count=3" />
-</a>
 
 ## Software Dev
-### Java
 
 <a href="https://github.com/jfullstackdev/java">
   <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=java&theme=tokyonight&description_lines_count=2" />
@@ -73,19 +59,9 @@ check out my blog and its mini static generator !
   <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=lightweight-web-server&theme=tokyonight&description_lines_count=2" />
 </a>
 
-<a href="https://github.com/xkcph2017/FlappyBird">
-  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=xkcph2017&repo=FlappyBird&theme=tokyonight&description_lines_count=2" />
-</a>
-
-### PureBasic
-
-<a href="https://github.com/jfullstackdev/PureBasic-2D-Game">
-  <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=PureBasic-2D-Game&theme=tokyonight&description_lines_count=2" />
-</a>
 <a href="https://github.com/jfullstackdev/PureBasic-FileExplorer">
   <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=PureBasic-FileExplorer&theme=tokyonight&description_lines_count=2" />
 </a>
-
 <a href="https://github.com/jfullstackdev/PureBasic-Scrabble">
   <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api/pin/?username=jfullstackdev&repo=PureBasic-Scrabble&theme=tokyonight&description_lines_count=2" />
 </a>
